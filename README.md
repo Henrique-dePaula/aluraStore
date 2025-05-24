@@ -22,9 +22,9 @@ A análise responde às seguintes perguntas:
 ```
 AluraStore/
 │
-├── Cópia_de_AluraStoreBr.ipynb   # Notebook principal com toda a análise exploratória e visualizações
-├── README.md                     # Documentação do projeto
-└── /datasets                     # Pasta recomendada para armazenar os dados (caso separados)
+├── Projeto - AluraStoreBr.ipynb    # Notebook principal com toda a análise exploratória e visualizações
+├── README.md                       # Documentação do projeto
+└── /datasets                       # Pasta para armazenar os dados
 ```
 
 ---
@@ -49,7 +49,7 @@ A análise contou com diversos gráficos para embasar a decisão:
 
 1. **Clone ou baixe o repositório**:
 ```bash
-git clone https://github.com/seu-usuario/alurastore.git
+git clone https://github.com/Henrique-dePaula/aluraStore.git
 ```
 
 2. **Instale os requisitos**:
@@ -62,7 +62,7 @@ pip install pandas matplotlib
 jupyter notebook
 ```
 
-4. **Execute o notebook `Cópia_de_AluraStoreBr.ipynb`** célula por célula.
+4. **Execute o notebook `Projeto - AluraStoreBr.ipynb`** célula por célula.
 
 ---
 
@@ -78,4 +78,10 @@ jupyter notebook
 
 ## 📬 Contato
 
-Caso tenha dúvidas ou sugestões, fique à vontade para entrar em contato.
+Caso tenha dúvidas ou sugestões, fique à vontade para entrar em contato:
+
+GitHub: @Henrique-dePaula
+
+E-mail: 750Henrique@gmail.com
+
+Instagram: @Henrique.LDP
